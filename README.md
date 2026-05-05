@@ -20,7 +20,7 @@ This assistant will not yet have access to real travel data—it uses a general-
 
 ## Tools and Resources
 
-- GitHub Starter Repo: \<link TBD\>  
+- GitHub Starter Repo: https://github.com/learn-co-curriculum/react-ollama-practice 
 - Ollama: https://ollama.com  
 - Ollama JS Library: https://www.npmjs.com/package/ollama  
 - React Markdown: https://github.com/remarkjs/react-markdown  
